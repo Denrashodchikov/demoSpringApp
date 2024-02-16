@@ -1,4 +1,4 @@
-package com.example.demoTopProger.dao;
+package com.example.BookStore.dao;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

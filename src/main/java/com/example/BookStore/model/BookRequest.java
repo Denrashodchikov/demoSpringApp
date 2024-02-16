@@ -1,4 +1,4 @@
-package com.example.demoTopProger.model;
+package com.example.BookStore.model;
 
 import lombok.Data;
 

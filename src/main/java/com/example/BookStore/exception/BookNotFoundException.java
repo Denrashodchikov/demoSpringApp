@@ -1,4 +1,4 @@
-package com.example.demoTopProger.exception;
+package com.example.BookStore.exception;
 
 public class BookNotFoundException extends RuntimeException{
 

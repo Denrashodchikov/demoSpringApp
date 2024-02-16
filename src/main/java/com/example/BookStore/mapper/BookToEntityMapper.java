@@ -1,7 +1,7 @@
-package com.example.demoTopProger.mapper;
+package com.example.BookStore.mapper;
 
-import com.example.demoTopProger.dao.BookEntity;
-import com.example.demoTopProger.model.Book;
+import com.example.BookStore.dao.BookEntity;
+import com.example.BookStore.model.Book;
 import org.mapstruct.Mapper;
 
 @Mapper(componentModel = "spring")

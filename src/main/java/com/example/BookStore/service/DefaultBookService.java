@@ -1,10 +1,10 @@
-package com.example.demoTopProger.service;
+package com.example.BookStore.service;
 
-import com.example.demoTopProger.dao.BookEntity;
-import com.example.demoTopProger.exception.BookNotFoundException;
-import com.example.demoTopProger.mapper.BookToEntityMapper;
-import com.example.demoTopProger.model.Book;
-import com.example.demoTopProger.dao.BookRepository;
+import com.example.BookStore.dao.BookEntity;
+import com.example.BookStore.exception.BookNotFoundException;
+import com.example.BookStore.mapper.BookToEntityMapper;
+import com.example.BookStore.model.Book;
+import com.example.BookStore.dao.BookRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

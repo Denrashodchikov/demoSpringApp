@@ -1,9 +1,9 @@
-package com.example.demoTopProger;
+package com.example.BookStore;
 
-import com.example.demoTopProger.mapper.BookToDtoMapper;
-import com.example.demoTopProger.model.Book;
-import com.example.demoTopProger.model.BookRequest;
-import com.example.demoTopProger.service.BookService;
+import com.example.BookStore.mapper.BookToDtoMapper;
+import com.example.BookStore.model.Book;
+import com.example.BookStore.model.BookRequest;
+import com.example.BookStore.service.BookService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 

@@ -1,6 +1,6 @@
-package com.example.demoTopProger.service;
+package com.example.BookStore.service;
 
-import com.example.demoTopProger.model.Book;
+import com.example.BookStore.model.Book;
 
 import java.util.List;
 

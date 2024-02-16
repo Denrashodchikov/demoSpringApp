@@ -1,4 +1,4 @@
-package com.example.demoTopProger.entity;
+package com.example.demoTopProger.dao;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

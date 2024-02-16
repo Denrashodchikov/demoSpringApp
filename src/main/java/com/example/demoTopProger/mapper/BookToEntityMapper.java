@@ -1,6 +1,6 @@
 package com.example.demoTopProger.mapper;
 
-import com.example.demoTopProger.entity.BookEntity;
+import com.example.demoTopProger.dao.BookEntity;
 import com.example.demoTopProger.model.Book;
 import org.mapstruct.Mapper;
 
